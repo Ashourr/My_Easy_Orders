@@ -1,7 +1,7 @@
 // "use client";
 // import { useState, useEffect } from "react";
 // import Aos from "@/components/Aos";
-import Bestseller from "@/components/bestseller/Bestseller";
+import Bestseller from "@/components/BestSeller/BestSeller";
 import Categories from "@/components/categories/Categories";
 import Default_product from "@/components/default_product/Default_product";
 import Headerslider from "@/components/header-slider/Headerslider";
